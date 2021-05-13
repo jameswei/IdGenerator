@@ -1,3 +1,6 @@
 ﻿IdGenerator/bin
 IdGenerator/obj
 .vs
+.vscode/
+**/obj
+**/bin
